@@ -1,13 +1,12 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/xZ6YzXZkSs64wk4s7C/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/michelle-juliet">
+  <a href="https://www.linkedin.com/in/kevien-otieno-705b6a221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.twitter.com/mitchyj_">
+  <a href="https://www.twitter.com/kevien_001">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://public.tableau.com/app/profile/michelle.juliet/">Tableau Projects </a>
 </div>
 <h1>
   Bonjour!
@@ -25,7 +24,7 @@
 </div>
 
 <!--
-**michellejuliet/michellejuliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mulambekevien/mulambekevien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Bio:
 
@@ -45,19 +44,19 @@
 - Math: Statistics, Linear Algebra, Differential Calculus
 - ML: Classification, Regression, Reinforcement learning, Deep learning, Clustering
 - Machine learning libraries: Scikit-learn, TensorFlow, PyTorch, Scipy
-- Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi, Seaborn
+- Visualization tools: Power BI, Excel, Tableau, Matplotlib, ggplot2, Seaborn
 - Open source application/ IDE: Jupyter Notebook, R studio, Colaboratory, Spyder
 - Web Scraping: Requests, Beautiful Soup, Selenium
 - Web creation tools: HTML, CSS, Bootstrap, Javascript
 <br> <br>
 
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=michellejuliet)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellejuliet)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michellejuliet&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=mulambekevien)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulambekevien)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mulambekevien&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 <!-- Update the image sources to include the "PAT_1" environment variable as a query parameter -->
 <p align="center"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michellejuliet&show_icons=true&locale=en&layout=compact&theme=radical&token=${PAT_1}" alt="Michellejuliet" width=390 height=180/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mulambekevien&show_icons=true&locale=en&layout=compact&theme=radical&token=${PAT_1}" alt="MulambeKevien" width=390 height=180/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=michellejuliet&show_icons=true&theme=radical&token=${PAT_1}" alt="karanidenis" width=410 height=170/>
 </p>
 
